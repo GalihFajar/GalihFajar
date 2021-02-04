@@ -11,6 +11,21 @@ I also have an interest in Machine Learning, mainly because for the first time I
 Combining both Machine Learning and Web Development is currently my 'coding goal' in the first half of 2021. In fact, for my final projects at college, my team and I is currently developing a system to detect violation in social distancing, built with Tensorflow for machine learning and Next.js + D3.js for the interface. I'm looking forward to publish it here!
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalihFajar&show_icons=true)](https://github.com/GalihFajar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalihFajar&layout=compact)](https://github.com/GalihFajar/github-readme-stats)
+
+
+<!--
+<a href="https://github.com/GalihFajar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GalihFajar&show_icons=true" />
+</a>
+<a href="https://github.com/GalihFajar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihFajar&layout=compact" />
+</a>
+-->
+
+
 <!--
 **GalihFajar/GalihFajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
