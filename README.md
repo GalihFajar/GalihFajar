@@ -1,10 +1,8 @@
 ### Well, Hello There 👋
 Hi. I'm Galih. I currently working as a Software Engineer at GoTo Financial. As one of its services, I mainly responsible to develop & maintain offline card payment services. 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalihFajar&show_icons=true)](https://github.com/GalihFajar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalihFajar&layout=compact)](https://github.com/GalihFajar/github-readme-stats)
 
 
 <!--
